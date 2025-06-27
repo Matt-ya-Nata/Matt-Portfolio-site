@@ -58,8 +58,6 @@ Built on Bootstrap's mobile-first grid system. The layout adapts to all screen s
 
 ---
 
-## 🚀 Getting Started
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/your-portfolio.git
+
+
